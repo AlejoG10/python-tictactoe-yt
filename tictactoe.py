@@ -179,7 +179,7 @@ while True:
 		if event.type == pygame.KEYDOWN:
 			if event.key == pygame.K_r:
 				restart()
-				player = 1
+				player = PLAYER % 2 + 1
 				game_over = False
 
 	pygame.display.update()

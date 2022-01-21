@@ -4,4 +4,4 @@
 https://www.youtube.com/channel/UCLqXQLK6zKZg0trhanjAkkQ
 
 ## 🔥 Instagram: 
-https://www.instagram.com/c0d1ng_sp0t/?hl=es-la
+https://www.instagram.com/coding_sp0t/?hl=es-la

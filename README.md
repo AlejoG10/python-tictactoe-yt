@@ -1,7 +1,10 @@
-# Hey Guys! For more Games & Tutorials Follow Me on:
+# Game Snapshots
 
-## ▶️ Youtube: 
-https://www.youtube.com/channel/UCLqXQLK6zKZg0trhanjAkkQ
+## Snapshot 1 - Start
+![snapshot1](snapshots/snaphot1.png)
 
-## 🔥 Instagram: 
-https://www.instagram.com/coding_sp0t/?hl=es-la
+## Snapshot 2 - Circle Win
+![snapshot1](snapshots/snaphot2.png)
+
+## Snapshot 3 - Cross Win
+![snapshot1](snapshots/snaphot3.png)
